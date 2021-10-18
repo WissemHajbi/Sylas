@@ -1,0 +1,1070 @@
+<resources>
+    <string name="app_name">Sylas.exe</string>
+    <string name="sylasname">Sylas of Dregbourne</string>
+    <string name="sylas">SYLAS</string>
+    <string name="settings">settings</string>
+    <string name="ab1">HIJACK</string>
+    <string name="ab2">ABSCOND/ABDUCT</string>
+    <string name="ab3">KINGSLAYER</string>
+    <string name="ab4">CHAIN LASH</string>
+
+    <string name="buildsnruines">Builds and Runes</string>
+    <string name="stories">Stories</string>
+    <string name="biography">Once I was a prisoner. Like YOU.Locked away by cowards and hypocrites. Left to die for the way I was born.Nothing to live for but vengeance. Nothing to lose but my chains.Yet in the revolution to come, our revolution, these chains will liberate us all.And I will make sure we are never shackled again.</string>
+    <string name="bio">“I am no traitor. I am the true Demacia.”</string>
+
+    <string name="shacklestitle">THE SHACKLES OF BELIEF</string>
+    <string name="turmoiltitle">TURMOIL</string>
+    <string name="recruittitle">THE RECRUIT</string>
+
+    <string name="shacklesstory">Thorva, Sister of Frost, hauled on her reins, dragging her hulking drüvask to a halt alongside Scarmother Vrynna of the Winter’s Claw. The shaggy-furred beast snorted in protest, hot breath steaming the air.
+
+“Hush, Ice-Tooth,” Thorva said. The bone charms and totems wrapped around her wrist rattled as she patted her ill-tempered mount.
+
+A bone-chilling wind whipped across the desolate landscape, yet alone among the raiding party, Thorva did not wear heavy furs and leathers. Her arms, tattooed with swirling indigo ink, were bare to the elements, but she gave no indication of discomfort, for the cold had long relinquished its claim on her.
+
+The imposing figure of Scarmother Vrynna sat astride another drüvask boar, a tusked behemoth even larger than the one Thorva rode. It snarled and stamped one massive, cloven hoof, eyeing Thorva balefully. A sharp kick from Vrynna silenced it.
+
+The scarmother was a ruthless veteran, her victories many and bloody, but Thorva refused to be overawed. Her name was not yet known across the Freljord like the scarmother’s, but she was a shamanka, one who dreamed the will of the gods, and even the most powerful matriarchs in the Freljord were wise to respect the old faith.
+
+The rest of the Winter’s Claw raiding party had reined in, awaiting their scarmother and shamanka. They’d been traveling at pace for much of the day, heading east, deep into Avarosan territory. This was their first stoppage in hours, and they took the opportunity to slide from their saddles, stretching their backs and shaking out numb legs.
+
+The wind picked up, whipping Thorva with snow and ice.
+
+“A storm is coming in,” she said.
+
+Vrynna, her face riven with old scars, did not reply, and continued to stare southward. Vrynna’s right eye was clouded and blind, and there was a streak of white in her dark hair—whatever had caused her wounds had certainly left its mark. Among the Winter’s Claw, such scars were a source of pride and reverence—the mark of a survivor.
+
+“You see something?” asked Thorva.
+
+Vrynna nodded, and continued staring into the distance.
+
+Thorva narrowed her gaze, but could see little through the worsening weather.
+
+“I see nothing.”
+
+“You have two good eyes, yet you are more blind than I am, girl,” snapped Vrynna.
+
+Frost formed around Thorva’s knuckles as her hands clenched, and her irises turned ice-blue. Nevertheless, she reined in her anger, forcing herself to take a deep breath.
+
+It was clear Scarmother Vrynna, like most of the Winter’s Claw, had little time for her or her beliefs. It likely didn’t help that Thorva had chosen to join this raiding party uninvited. No doubt she thought the shamanka joining them may distract those more inclined to superstition, undermining their purpose and her authority.
+
+In truth, a vague but compelling instinct had urged Thorva to join the raid, despite the scarmother’s initial protests, and she had long ago learned to trust such impulses as a gift. The gods wanted her here, but for what purpose, she knew not.
+
+“There, a mile to the south,” pointed Vrynna. “Near that rocky outcrop. See?”
+
+Thorva nodded, finally. A lone figure could just be made out, little more than a shadow against the snow. How Vrynna had spotted it in the first place was beyond her. Thorva frowned as she felt an itching sensation prickle the back of her neck. There was something strange about whoever this was…
+
+The wind billowed, and the figure was obscured once more, yet the persistent unease Thorva felt remained.
+
+“An Avarosan scout?”
+
+“No,” said Vrynna, shaking her head. “They are trudging straight through a deepening drift. Not even a child of the Freljord would make a mistake like that.”
+
+“An outsider, then. But this far north?”
+
+Scarmother Vrynna shrugged. “The Avarosans do not follow the old ways. They trade with southerners rather than simply taking from them. Perhaps this is one of those traders that has lost their way.”
+
+Vrynna spat, dismissively, and hauled her drüvask around to continue on. The other warriors followed her cue, turning the heavy, tusked heads of their own mounts back along the ridgeline, to the east. Only Thorva remained, staring intently into the storm.
+
+“They might have seen us. If they carry word of our presence, the Avarosans will be ready for us.”
+
+“That fool won’t be telling anything to anyone, except perhaps whatever gods they worship in the Beyond,” Vrynna declared. “This storm is worsening. They will be dead by nightfall. Come, we have lingered long enough.”
+
+Still, there was something that bothered Thorva, and she remained on the edge of the ridge, looking back toward the lone outsider, though she could see barely more than a dozen paces now, at best. Was this why she had been brought here?
+
+“Girl!” snapped Vrynna. “Are you coming?”
+
+Thorva looked at Vrynna, then back south.
+
+“No.”
+
+With a nudge, Thorva directed her drüvask boar down the side of the ridge, allowing herself a satisfied smile as she heard Vrynna curse behind her.
+
+
+
+“We go after her, yes?”
+
+It was Brokvar Ironfist who spoke, the massive Iceborn warrior who had been her champion and sometime lover for almost a decade.
+
+“The gods will bring ruin upon our tribe if anything happens to her,” Brokvar added.
+
+If forced to pick just one person in the Freljord to fight at her side, Vrynna would choose Brokvar. Half a head taller than the next biggest warrior under her command, he was strong enough to lift a drüvask off the ground, and utterly dependable. He lived to fight—and he did it well—and he carried the broadsword Winter’s-Wail.
+
+That blade was legend among the Winter’s Claw, and had been passed down between Iceborn for centuries. A shard of unmelting True Ice was embedded in the hilt of Winter’s-Wail, and crackling hoarfrost coated its edge. Anyone who wasn’t an Iceborn who tried to grasp it—Vrynna included—would suffer great pain, even death.
+
+If he had one flaw, it was his superstition. He saw portents and prophecy in everything from the flight patterns of ravens to the splatter of blood in the snow, and much to her distaste, he practically worshipped the ground where the self-righteous shamanka walked. Worse, it seemed as if his overt reverence had rubbed off on the other warriors under her command. She saw several of them nodding agreement, and muttering under their breath.
+
+Against her better judgment, Vrynna signaled, and the raiding party swung around, to follow the Sister of Frost.
+
+
+
+Scarmother Vrynna was right about one thing: whoever the lone outsider was, they had less understanding of the Freljord than a child.
+
+Watching their exhausted progress through the deep snow, Thorva knew they would be dead within the hour if she simply turned and rode away. In truth, it was a minor miracle they had made it this far, for they were plainly ill-prepared for the harshness of the tundra, and lacked even the most basic understanding of navigating it safely.
+
+As she came closer, unaffected by the bitter wind whipping across the desolate landscape, she saw them stumble. Time and again the outsider struggled vainly back to their feet, but it was obvious their strength was all but spent.
+
+The outsider seemed oblivious to Thorva’s approach. She was closing the distance from outside the periphery of their vision—coming at them from the flank, and slightly behind them—but not once did they turn.
+
+Thorva scanned her surroundings. If there were any rimefangs or other beasts stalking this outsider, now would be the time to strike. Seeing nothing, she pushed on.
+
+She was close enough now to make out more of the outlander’s appearance. It was a man, she saw now, garbed in leathers and furs, though he did not wear them in the Freljordian manner. Foolishly, he carried no spear, axe, sword, or bow. Thorva shook her head. In the Winter’s Claw, from the time one could walk, they were never without a blade. She herself had other more arcane weapons at her disposal, yet even she had three blades on her at all times.
+
+Stranger still, the outsider dragged a pair of chains behind him, affixed to giant manacles of curious design clamped around his wrists…
+
+
+
+It was far too late now, but Sylas of Dregbourne realized he had grossly underestimated the sheer, overwhelming hostility of the Freljordian landscape. He understood there was great magical power here, in the north—and now he was here, he could practically feel it in his bones—but it seemed now that it had been a mistake to come here.
+
+A dozen hand-picked mages had set out with him into the frozen north, but each had fallen, one after another, claimed by blizzards, hidden ravines, and savage beasts. He thought the main threat would have come from the barbarian Freljordians themselves, but so far he had not seen a single living soul in the weeks of travel.
+
+How anyone could live out here was beyond him.
+
+He thought they had prepared well, layering themselves in furs and wool, and loading up the heavy, furred oxen with food, firewood, weapons, and coin to barter with; coin liberated from the coffers and chests of the tax-collectors and nobility of his homeland of Demacia.
+
+Not even the oxen had survived this far, though, and now Sylas walked alone.
+
+Sheer force of will and the burning desire to see the monarchy and noble houses of Demacia fall drove him on.
+
+Already he had fomented considerable resistance within the boundaries of Demacia itself. He’d lit the fires of rebellion, but had realized he needed more fuel to see it truly burn. In his cell in Demacia he had consumed every book, chronicle, and tome he was able to get a hold of, and in several of them there had been references of the great and terrible sorcery and ancient magic far to the north. That was the power he needed. Even now, facing death, he believed the power he sought was close…
+
+Nevertheless, not even his stubbornness was enough to overcome the relentless cold. His hands and toes were already turning black and had long gone numb, and a heavy lethargy hung upon him like a weight, dragging him down.
+
+He thought he had seen a column of riders upon a distant ridge some time back, but he was not sure if that was real, or some fevered delusion brought on by exhaustion and the freezing temperature.
+
+To stop was to die, though, he knew that well enough. He would find this power in the north, or he would be damned.
+
+And so he slogged on, one foot in front of the other… but he made it only a dozen more steps before he fell face-first into the snow, and lay still.
+
+Thorva shook her head as she saw the outsider fall, and urged Ice-Tooth forward. The man didn’t make any move to get up this time. For all she knew, he was dead, finally claimed by the unrelenting elements that she herself no longer felt.
+
+Once she was close, Thorva slid from the saddle, sinking almost to her knees as she landed. She approached the face-down man warily, crunching through the snow.
+
+Again she looked at his bonds, curiously.
+
+If he was an escaped prisoner, where had he escaped from?
+
+While the Winter’s Claw did not take prisoners, they did on occasion take thralls—though one that could not be tamed or beaten into service was just another mouth to feed. Thorva didn’t think even the Avarosans would chain someone in this manner. Could he have escaped from the southlands, over the distant mountains?
+
+Grasping her staff in both hands, she prodded him. Getting no reaction, Thorva drove the base of her staff into the snow underneath the outsider, and tried to lever him onto his front. It was a difficult task, for the immense manacles the man wore covered most of his forearms and were incredibly heavy. Grunting with the effort, she finally managed to turn him over.
+
+He flopped over lifelessly, and his furred hood fell back. His eyes were closed and sunken, and his lips tinged blue. Frost had formed on his brows, lashes, and his unshaven cheeks, and his dark hair, tied back in a loose ponytail, was similarly icy.
+
+Thorva allowed her gaze to be drawn to the shackles around his wrists. The Sister of Frost had traveled widely, the duties of her faith taking her to many different tribes over the years, yet these restraints, made of some unknown pale stone, were unlike anything she had seen before. There was something deeply unsettling about them. It was vaguely uncomfortable even to look upon the chains, and they had clearly been made in such a manner that they were never intended to be removed. What had this stranger done to warrant having such things around his wrists? It must have been a terrible crime, she decided.
+
+Kneeling in the snow at his side, Thorva tried to fathom why she had been guided here. The gods had clearly brought her here—just as they had directed her in the past—but why? The man was still unconscious, if not yet dead. Had she been brought here to save him? Or was it what he brought with him that was important?
+
+Thorva’s gaze returned to the stranger’s bonds. Making her decision, she reached toward one of them.
+
+Before she had even touched the pale stone, her fingertips began to tingle.
+
+The man’s eyes snapped suddenly open.
+
+Thorva jerked back in shock, but she was too slow. The man tore off one of his gloves and grabbed her by the arm, and even as Thorva tried to summon her gods-given power, she felt it ripped out of her, forcibly drained from the core of her being. Her body was stricken with a sudden, incapacitating coldness—a sensation she had not felt in years—and she fell, unable to breathe, unable to move, unable to do anything.
+
+As the cold took her, she dimly registered color returning to the stranger’s face, as if he were suddenly being warmed by a hearth.
+
+A hint of a smile curled his lips.
+
+“Thank you,” he said.
+
+Then he released his grip, and Thorva fell back into the snow with a gasp, empty, and drained.
+
+Vrynna cursed as she saw the shamanka fall, and kicked her drüvask forward.
+
+“With me!” she roared, and the rest of the raiding party lurched into motion. The ground shook beneath their thundering charge, the sound akin to an avalanche.
+
+The outsider was kneeling alongside the Sister of Frost as the Winter’s Claw powered through the snow toward him. Curiously, she saw the man shrug off his fur coat and drape it over the fallen shamanka, the gesture almost tender.
+
+He stood to face the earth-shaking approach of the Winter’s Claw, dragging his chains behind him. Vrynna tightened her grip on her spear.
+
+Seeing the force bearing down on him, the stranger backed away from the fallen shamanka, who lay unmoving and pale upon the snow. He held his hands up to show he bore no weapon, but that didn’t matter to Vrynna. She had killed unarmed enemies in the past.
+
+Without having to give the signal, Vrynna’s warriors fanned out wide to encircle him, cutting off any chance of escape. Wisely, he didn’t try to run. After all, there was nowhere to run to.
+
+He turned on the spot, like the weakest of the herd, isolated by wolves. His gaze darted between the Freljordians arrayed against him. He was wary, yet he showed no sign of fear, which Vrynna could respect, at least.
+
+Having taken off his coat, the outsider’s muscular arms were bare to the elements, but he appeared not to feel the cold at all.
+
+Curious, thought Vrynna.
+
+He was a tall man but he was hunched slightly, the weight of the massive shackles bound to his arms clearly pulling on him.
+
+“See to the Sister,” she ordered, not taking her eyes off the stranger.
+
+The stranger faced her, as one of the raiders slid from his saddle and moved to the shamanka’s side.
+
+“I am Vrynna,” she declared. “Scarmother of the Winter’s Claw. Shieldbreaker. Woebringer. I am the Drüvask’s Howl. Who are you, and why are you here?”
+
+The man cocked his head to one side, responding in a tongue she could not comprehend. Vrynna cursed.
+
+“You don’t understand me, do you?”
+
+Again the man gave her a quizzical look.
+
+“Sylas,” he replied, tapping his chest.
+
+“Sylas?” Vrynna repeated. “That’s your name, Sylas?”
+
+The man simply repeated the word, tapping his chest again, and giving her a rakish smile.
+
+The scarmother muttered under her breath. She glanced over to the shamanka, lying lifeless and pale upon the snow. One of Vrynna’s warriors knelt over Thorva, lowering his head to her chest to see if she was breathing.
+
+“Is she dead?” she called.
+
+“She’s half frozen, but she lives,” came the reply. “At least for now.”
+
+The Freljordian warriors muttered under their breaths. Half frozen? It was known that the Sister of Frost was inured to the cold, claimed to be a gift of the old gods… but now she was freezing, and this stranger to the Freljord, Sylas, stood before them, his skin bare?
+
+Vrynna frowned, considering her options. She didn’t put much faith in anything but steel, fire, and blood, but she knew her warriors—particularly Brokvar—would likely see this as some kind of omen.
+
+“This is a waste of time,” she muttered.
+
+Making her decision, she tightened her grip on her spear,and nudged her mount forward. The man, Sylas, raised a hand and yelled something in his weak,southerner’s tongue, but she ignored him. She would kill this fool, and be on her way.
+
+“Let me do it,” growled Brokvar, riding at the scarmother’s side.
+
+Vrynna’s brow raised.
+
+“He did this to the revered sister,” Brokvar answered her silent question, stabbing a meaty finger toward the fallen shamanka. “It would be my honor to punish him, beneath the eyes of the gods.”
+
+The outsider looked between Vrynna and Brokvar. Did he have any understanding that his fate was about to be determined?
+
+Vrynna shrugged. “He’s yours.”
+
+Brokvar dropped off his mount, rose to his full, towering height. The man, Sylas, was not small, but Brokvar made him look it. The Iceborn unsheathed Winter’s-Wail from the scabbard across his back, and began to walk grimly toward the outsider.
+
+
+
+The last time Thorva had truly felt the cold had been when she was a child, not even six winters of age.
+
+She had chased a snow hare out onto a frozen lake, laughing as she went. She had not realized the ice beneath her was so thin until the awful cracking sound, right before it gave way. With a strangled cry, she plunged into the icy, black depths. Such was the shocking suddenness of the bone-chilling cold that all the air was driven from her lungs, and her limbs instantly seized up, stiffening in agonizing cramps.
+
+She’d been dead for long minutes before she was finally hauled out from under the ice and the tribe’s shaman breathed life back into her. She first manifested her gods-given power that night.
+
+“Sometimes, when a person is brought back from the Realm Beyond, they return changed,” the shaman explained, shrugging. “The gods, in their inscrutable wisdom, have blessed you.”
+
+In the days that followed, she had found herself impervious to cold, able to walk through freezing blizzards bare-skinned, with no ill effect.
+
+Now, once again she was that scared little girl she’d been, sinking slowly as the hole in the ice above got further and further away… only this time she was staring up at the sky, unblinking.
+
+Numb and breathless, Thorva lay on the ground, hearing nothing, feeling nothing. The cold infused her. It was her.
+
+Was this the reason she had been brought here? To give her life to the outsider, that he may fulfill whatever it was the gods had decreed?
+
+Nevertheless, an ineffable fear slowed her descent into oblivion.
+
+Even if it were the gods’ will for her to die in the outsider’s place, Thorva knew in her heart that Vrynna would not let him live… and so, she began to fight back toward the surface.
+
+
+
+Brokvar Ironfist went straight for the killing blow, charging forward, Winter’s-Wail hissing through the air and trailing icy fog in its wake.
+
+That blow would have split an ice-troll in half had it landed, but the outsider was surprisingly quick given he was weighed down by restraints. He darted back from the lethal strike and whipped his chains around in a whirling arc. They swung passed Brokvar’s face, barely missing the Iceborn warrior as he snarled in fury.
+
+Still, he didn’t reel back, as perhaps the outsider had expected. He was as tough as the mountains and was exceptionally fast for such a big man. He lashed out, striking his opponent across the side of the head with a powerful backhand punch, and Vrynna winced as the smaller man was sent flying.
+
+The outsider struggled to pick himself off the ground as the Iceborn stalked toward him, but finally regained his footing. In truth, Vrynna was impressed that he was able to get up at all. Still, he merely prolonged the inevitable outcome.
+
+His face set in grim resolve, Brokvar closed in for the kill.
+
+
+
+Sylas’ gaze narrowed as he focused on the barbarian’s weapon.
+
+The pale ice shard in its hilt was glowing brightly, and crackling hoarfrost covered the blade.
+
+The magic that chunk of ice exuded was unlike anything Sylas had encountered before. It was primal, dangerous, and enfettered. Sylas could feel it on his skin, a frisson of power that was almost intoxicating.
+
+The woman’s power had revived him, driving the cold from his limbs and the blackness from his fingers, but this was a power far older. If he could just get his hands on it…
+
+With a roar, Sylas stepped forward to meet the Freljordian.
+
+
+
+The outsider lashed at Brokvar, swinging his chains around in a flurry of arcs. The Iceborn was struck across his head, one chain from each side. The heavy links whipped around, and with a wrench, the Iceborn’s helmet was torn off.
+
+Brokvar shook his long hair loose, spat blood into the snow, and continued his advance.
+
+The chains came around at him again, but the massive warrior was ready this time. He avoided the first of the strikes, before stepping forward and lifting one arm, letting the chain whip around his massive forearm. Then he grabbed the metal links in his vice-like grip, and yanked the smaller man toward him, straight into a swinging elbow.
+
+The blow crumpled the man, and he fell at Brokvar’s feet. The Iceborn towered over him, Winter’s-Wail raised to deliver the killing blow.
+
+“Wait! Do not kill him!” came a shout, and Brokvar paused.
+
+Vrynna whipped her head around, scowling, to see the Sister of Frost, Thorva, rising unsteadily to her feet. She was deathly pale, and her lips blue, but she stomped forward, leaning heavily on her staff of office.
+
+“What madness is this?” Vrynna snarled.
+
+“Not madness,” Thorva said, leaning heavily upon her staff of office. “It is the will of the gods.”
+
+
+The giant barbarian was momentarily distracted, a look of confusion on his brutish face, and Sylas saw his chance.
+
+Rising to a knee, he lashed out with one of his chains. It whipped around the blade of his opponent, and with a sharp tug, he tore it from the man’s grasp.
+
+It landed in the snow nearby, and Sylas leapt upon it, eagerly.
+
+Grinning, he picked up the broadsword… and agony seared through him.
+
+
+Vrynna shook her head at the fool. Only an Iceborn could hold a True Ice weapon. For anyone else, it was a death sentence.
+
+The outsider released Winter’s-Wail, roaring as the cold shot up his arm. He dropped to his knees, clutching his arm, even as it began to freeze. The killing power of the True Ice began at his hand, but was steadily working its way down his arm, toward his heart.
+
+“The gods wanted this?” Vrynna scoffed, gesturing at the outsider.
+
+The shamanka scowled, but said nothing.
+
+“But then, the gods are nothing if not fickle and cruel,” added Vrynna, shrugging. “Perhaps they simply wanted him to suffer?”
+
+Brokvar retrieved Winter’s-Wail, hefting it without harm. The outsider stared up at him, anguish and confusion written upon his face as the lethal power of the True Ice consumed him.
+
+“Put him out of his misery,” ordered Vrynna.
+
+Brokvar’s iron gaze shifted to the shamanka, looking for her approval. Anger surged within Vrynna.
+
+“If the gods want him saved, then they can intervene,” she snapped.
+
+
+
+Thorva served and venerated the old gods of the Freljord, but she did not claim to know their will. Nor had she often witnessed them intervene directly in mortal matters.
+
+And yet, it seemed impossible that what happened next was purely coincidental.
+
+The outsider was lying on the snowpack, shivering and convulsing. The True Ice had almost claimed him, but he continued to fight it, reaching out one shuddering hand toward the Iceborn warrior.
+
+Thorva knew what the Demacian was capable of, how he had siphoned her power with but one brief touch. She could have warned the Iceborn veteran… but she did not.
+
+
+
+Sylas was dying, but even in death his will to keep fighting was strong.
+
+In desperation, he reached out toward the towering barbarian looming above him. He grabbed hold of the warrior’s boot, but the barbarian kicked his clawing hand away.
+
+The bearded giant looked down at him piteously, as one would a wretched dog in the street. It was the same way the nobility looked down on the lesser-born in Demacia, and Sylas’ anger surged.
+
+That anger fueled him, and with a last burst of his dying strength, he sprang off the ground and grasped the Freljordian giant around the throat. Ancient, raw, elemental magic instantly began to infuse him.
+
+Sylas may have been unable to grasp the Freljordian ice-weapon, but he could still draw from its power… using the barbarian’s flesh as its conduit.
+
+It took no more than a moment.
+
+The barbarian staggered back, unsure what had just happened. Sylas smiled, and his eyes began to glow with icy-pale light.
+
+He turned his attention to his frozen arm, holding it before him. With a surge of his newfound power, he made the ice reverse its direction. It crept back down his arm, and then was gone, leaving his flesh unharmed.
+
+Then he turned his attention to the warrior standing aghast before him.
+
+“Now then,” he said. “Where were we?”
+
+
+
+Brokvar stepped back away from the outsider, gaping in wonder.
+
+“What is he?” snarled Vrynna. “Iceborn?”
+
+“No,” Thorva interjected, eyes blazing with faith. “He is something else…”
+
+Vrynna had seen enough. In one smooth, well-practiced motion she reversed her grip on her spear, and standing in the saddle, hurled it at the stranger, putting all her might and weight behind it.
+
+It hurtled straight toward him, but the man thrust a hand out, fingers splayed, and the ground before him erupted. Amid a grinding series of cracks, a protective wall of towering ice-spikes surged up from below. Vrynna’s spear slammed deep into the ice, but could not penetrate it. It was left shuddering in place, embedded a solid foot into the barrier, and leaving the outsider completely unharmed.
+
+Vrynna gaped at the magical barrier, even as it collapsed a moment later, falling as quickly as it had appeared.
+
+The outsider stood revealed, laughing and looking in wonder at his hands, now rimmed with frost and radiating pale blue light, like the underside of an iceberg. He looked up at Vrynna, frozen fog emanating from his eyes, and began to gather the primal, frozen power within him once more. A spinning orb of magic, like a self-contained blizzard, began to form between his hands.
+
+The Winter’s Claw fingered their weapons uneasily, unsure of themselves in the face of what was clearly Freljordian magic.
+
+Thorva called out something then, though the words made no sense to Vrynna. She glanced at the shamanka in surprise.
+
+She spoke the outsider’s tongue?
+
+There was much about the Sister of Frost that she did not know, it seemed, and her distrust deepened.
+
+
+
+The shamanka and the stranger spoke for a time, while Vrynna watched on, gritting her teeth.
+
+“What does the outsider say?” she snapped, finally losing patience.
+
+“He says we share a common enemy,” Thorva explained. “He says we can help each other.”
+
+Vrynna frowned. “Who? The Avarosans? We raid them, as we always have, but we are not at war.”
+
+“I believe he means his own people. The Demacians, across the mountains.”
+
+“He is a traitor, then?” Vrynna said, “Why would we trust one who would betray his own?”
+
+“The mother of scars would know how you would aid our tribe,” Thorva said, addressing the outsider in his own tongue. “Make your offer, else your soul will journey to the Beyond, here and now.”
+
+Sylas gave his answer, speaking directly to Vrynna. Thorva watched him carefully as he spoke, asking several times for clarifications of words she did not immediately understand.
+
+“He says he knows hidden paths into his homelands, paths known only to him,” said Thorva. “He speaks of the vast riches there, waiting to be claimed. Fields untouched by snow and filled with fat cattle, streets that flow with gold and silver.”
+
+The warriors of the Winter’s Claw smiled and laughed among themselves at her words, and even Vrynna’s eyes lit up. They lived a harsh existence, making the promise of easy pickings a tempting one.
+
+But still some doubt lingered.
+
+“How do we know he would not lead us into a trap?” challenged Vrynna. “We cannot trust him. Better to kill him, here and now, and not be led astray by his golden tongue.”
+
+“He…” Thorva began, picking her lie carefully. “He says he had a vision. A dream that came to him, of three Freljordian sisters. It was they who urged him to come here.”
+
+“The Three!” breathed Brokvar in reverence. “He speaks of Avarosa, Serylda, and Lissandra!”
+
+
+
+The other Winter’s Claw warriors murmured in surprise and awe, many of them touching holy totems hanging around their necks.
+
+The Three Sisters were legends, the greatest and most honored warriors of the Freljord. They were the first of the Iceborn, and had lived in the age of heroes, long ago. Across much of the frozen north, they had come to be regarded as chosen ones, and many invoked their wisdom in times of strife, or begged their favor before battle.
+
+Vrynna glared, regarding Thorva sourly. Did the scarmother suspect her lie?
+
+Seeing Brokvar’s rapturous wonder spread through the other gathered warriors, however, she realized it didn’t matter. Thorva had known Vrynna’s Iceborn champion would latch on to those words. That they would inspire his awe and his faith, and that his influence among the other warriors was strong. They would never allow the outsider to be killed out of hand now, no matter what order Vrynna gave.
+
+She allowed herself a slight smile of victory, though she was careful not to let Vrynna see it as she considered the outsider.
+
+It was the gods’ will that this one lived, Thorva felt certain of it. She felt no guilt for lying to ensure that happened.
+
+“He must prove himself before we would even consider trusting him.”
+
+“A wise move, scarmother,” nodded Thorva. “What do you suggest?”
+
+“He will come with us on our raid,” declared Vrynna. “If he fights well, and makes a good account of himself, then perhaps we will hear more of what he proposes. More about these hidden paths into Demacia. But he will be your responsibility. It will be up to you to control him, and if he turns on us, it will be on your head.”
+
+Thorva nodded, and turned to the outsider.
+
+“Fight with us. Prove to the mother of scars your worth,” she said. “Fight strong and you may live to have your alliance.”
+
+Those final words elicited a broad smile from the outsider.
+
+Thorva appraised him, giving him a look from head to toe. He was handsome for a southerner. A little lean for her tastes, but he was clever, and there was power in him.
+
+She leveled a finger at him.
+
+“But never touch me again,” she warned.
+
+The outsider smiled wryly.
+
+“Not without your permission,” he replied, and Thorva turned away so he did not see her smile.
+
+“What does he say?” demanded Vrynna.
+
+“He agrees to your terms, scarmother,” called Thorva.
+
+“Good. Then let us move,” said Vrynna. “We raid.”</string>
+    <string name="turmoilstory">“Why send us all the way out here?” said the soldier leaning against the wall of the gatehouse, arms folded across his chest. “There’s blood on the streets of the Great City, and we’re sent to the border?”
+
+His name was Bakker, and Cithria had never warmed to him—he was prone to seeing the bad in every situation, though to be fair, in this case there was truth in his words.
+
+The rest of their comrades stood nearby. None of them looked particularly happy about their predicament.
+
+Cithria remained silent. She was the youngest of the Demacian soldiers, though she was by no means an untested recruit. In the year she’d spent among their ranks she had proven herself a capable soldier, and one of the fastest with a blade, yet there were plenty of times—this among them—when she felt out of her depth and unsure of herself.
+
+She wore full, gleaming plate armor, as did they all. A shield was slung across her back, and she carried her helmet under one arm, leaving her dark hair, tied back in a long braid, hanging free.
+
+The soldiers stood before the immense Graygate, guarding the northeast border of Demacia. The name was anomalous, for the bastion was built of pristine white stone. It was generally understood that the name had come from the gray shale cliffs nearby, though soldiers stationed here, particularly those who hailed from the south or the coast of Demacia, moaned it had more to do with the perpetually overcast, northern skies.
+
+To either side of the gate tower stretched tall, white stone walls. Pennants fluttered in the breeze from the crenulations, and sentries stood vigil in the cold wind, looking eastward.
+
+“We should be deployed with the rest of the battalion, scouring the forests for that traitor and his rabble,” another soldier said.
+
+“Mages,” said Bakker, speaking the word with loathing. “We should be rid of the lot of them.”
+
+Such talk made Cithria uneasy. She herself had never encountered magic, or at least none that she was aware of, but she had been raised to fear and distrust those that were able to wield it. News from the capital made that fear seem justified.
+
+It was only a month since the rogue mage Sylas had escaped imprisonment and ripped the heart of Demacia apart. That insane, horrifically powerful rebel had ignited a wave of unrest across the kingdom, and even now the Great City was locked down, the military controlling the streets to ensure order.
+
+Cithria agreed they would be more useful elsewhere, but the venom in her comrade’s voice disturbed her.
+
+“I say the whole lot of them should—” Bakker started saying, but Cithria cut him short.
+
+“Heads up. The shield-sergeant’s back.”
+
+The short, stocky figure of Shield-Sergeant Gunthar was heading toward them at a brisk pace. A pair of hooded men walked with him, one to either side.
+
+“Who’s that with him?”
+
+“I don’t know,” said Cithria.
+
+The soldiers snapped sharply to attention as their sergeant and his mysterious companions drew near.
+
+“Alright you lot,” Gunthar said. “I know you’re all wondering why in the Protector’s name we’ve been sent all the way out here.”
+
+The sergeant cast his gaze across their ranks.
+
+“A foreign envoy from the Arbormark will soon be arriving here at the border, and we have been tasked with escorting them safely to the capital.”
+
+Escort duty?
+
+Even to Cithria, it seemed a strangely mundane task. Still, neither she nor any of the other soldiers said a word, and all remained staring resolutely forward.
+
+“The envoy’s protection is our highest priority,” continued Gunthar. “Were even so much as a hair on their head to be harmed while under our guard, it would tarnish the honor of Demacia. The Arbormark have long been our allies, and we must not allow anything to damage that relationship. It is expected we fulfill this duty with honor, grace, and good faith.”
+
+Gunthar’s expression hardened. “Even if it goes against our better judgment,” he added.
+
+The soldiers were well-disciplined, and made no overt reaction to those final words, but Cithria felt and mirrored their unease. What was that meant to mean?
+
+Gunthar gestured to his cloaked companions, who stepped forward, lowering their hoods.
+
+Cithria’s eyes widened.
+
+The older of the pair was a stern-looking man of middling years, his short-cropped hair going to gray, and his skin weathered with deep frown-lines and more than a few scars. The other was a younger man, slimmer of build and nervous-looking, with a sweep of dark hair hanging to one side of his face.
+
+Both wore form-fitting golden half-masks, and dull gray discs of engraved stone pinned at their shoulders holding their cloaks in place.
+
+Cithria let out a slow breath that she didn’t realize she’d been holding.
+
+Mageseekers.
+
+“This is Cadstone, a senior adept of the mageseeker order, and his associate, Arno,” said Gunthar, by way of introduction. The mageseekers bowed ever-so-slightly. “They will be accompanying us as we escort the envoy to the capital.”
+
+Horns sounded atop the gatehouse.
+
+“Riders approaching, under the banner of the Arbormark!” came a cry from a sentry up above.
+
+Shield-Sergeant Gunthar nodded to the guards, and the great gates were heaved open, hinges groaning under the weight. The ironwork portcullis was raised, chains clanking, and the immense drawbridge beyond was lowered. It slammed down with a boom like thunder. Early morning sunlight streamed in through the open gate.
+
+“With me,” Gunthar ordered, striding forward with the mageseekers at his side. Cithria and the other soldiers fell in behind them, moving with well-drilled precision.
+
+
+
+
+Cithria wasn’t sure exactly what she was expecting from the envoy, but it wasn’t the massive, dark-skinned man who waited for them. He was clad in bearskins, and carried a staff of heavy wood. He smiled broadly as the Demacians marched forth to meet him.
+
+Cithria watched him warily.
+
+He rode the biggest horse Cithria had ever seen, jet-black and with thick feathering covering its iron-shod hooves. Accompanying him were twenty riders, all wearing long scale mail coats, and carrying axes and shields. One of them bore a standard, depicting the crossed axes heraldry of the Arbormark, which was mirrored on the warriors’ shields.
+
+The envoy dismounted, and strode forward to meet Gunthar and his entourage, smiling broadly. He had the heavily muscled build of a soldier, or a smith; definitely not what she was expected of a mage. She had always imagined them as sneaking, cunning types, preferring subterfuge and trickery to physical strength.
+
+Halting before the Demacians, he touched the palm of his left hand to his forehead, then extended it to the sky. Cithria clasped her hand around the hilt of her sword, thinking he was performing some arcane conjuration, before realizing it was likely an Arbormark salute. Feeling her cheeks burn, she cursed herself for a fool.
+
+Shield-Sergeant Gunthar gave the man a salute of his own.
+
+“My name is Arjen, and I bring greetings from the Lord of the Arbormark,” said the envoy, bowing his head.
+
+“Welcome. I am Shield-Sergeant Gunthar, seventh battalion. And this,” he added, “is Cadstone, of the Order of Mageseekers.”
+
+“You have been a guest within the borders of Demacia before, have you not?” said Cadstone, without any pretense of small talk. “You are aware of the Laws of Stone?”
+
+“Yes, I have been here before, good seeker,” said Arjen, “and I am aware of your kingdom’s rules and regulations. I shall honor the Laws of Stone and make no use of my… talents… while within your realm. I give you my word.”
+
+“Good,” said Cadstone. “Mageseeker Arno and I will be with you, from now until the moment you leave Demacia. It is our task to hold you to your word. Know that there will be repercussions if you do not abide by our laws. But if you abstain from using your… talents, as you call them… then all will be well.”
+
+Arjen bowed deeply, still smiling.
+
+“Then let us be on our way,” said Gunthar. “Your personal guard will need to remain beyond the border, of course.”
+
+“Of course, of course,” Arjen said, before turning and waving his attendants away. “Shoo!” he said. “Be off with you!”
+
+Cithria stifled a smile at the man’s bizarre behavior. The stoic riders turned, one of them grabbing the reins of the envoy’s horse, and galloped away without a word.
+
+“Let us be on our way then!” said Arjen, clapping his hands together.
+
+
+
+
+It was three hours’ solid march northwest to Meltridge, a small river town, where they would board a waiting ship and sail the rest of the way to the capital. Cithria was surprised to find that the envoy from the Arbormark did not slow them, easily matching the punishing pace Gunthar set, his heavy staff striking the ground firmly with every step.
+
+The march took them across windswept moors and dales. The gales whipping down from the frozen north chilled Cithria to the bone. The Demacians trudged on, cinching their cloaks around their necks for additional warmth. Wrapped in bearskins, the envoy seemed unaffected by the weather.
+
+For all Cithria’s apprehension, Arjen was an affable and easily likeable man. She forced herself not to be lulled into a false sense of security, however. The ways of the arcane were full of deception and trickery. While the Demacians were tight-lipped and stoic, clearly uneasy around this mage, Arjen himself passed the time telling stories of his homeland. Most of them involved lots of drinking of ale, feats of strength, and farfetched heroics, but he had a gift for storytelling, and it certainly passed the time better than silence.
+
+“…and then the great beast growled. ‘You don’t come here for the hunting, do you?’ it said.”
+
+The big man guffawed with laughter at his own ribald joke, slapping one of his meaty thighs in mirth. Cithria, marching just to the envoy’s side, found herself smiling despite herself, even as she shook her head at the inappropriateness of the story.
+
+“You get it, lass?” said Arjen, addressing Cithria directly. “He says that because he thinks the man—“
+
+“Oh, I get it,” said Cithria hastily holding up her hand to stop Arjen’s explanation.
+
+Snow began to fall around halfway to their destination. At first, the flakes were small and light, but they quickly became heavier, until visibility was reduced dramatically. Soon, the ground and road were completely blanketed. The snowfall dampened all sound. Cithria walked near the envoy, who was guarded in the middle of the column of soldiers. Glancing over her shoulder, she saw the two mageseekers had fallen a few steps back, just out of earshot. They had both drawn their hoods over their heads against the cold.
+
+“I’m curious,” Cithria said, in a low voice that she hoped only the envoy hear.
+
+“Curiosity is a powerful thing,” said Arjen. “Sometimes dangerous.”
+
+A nearby soldier gave her a glance, as if willing her to remain silent. Cithria paused, wondering if she should finish her thought, or let it pass. Her curiosity got the better of her.
+
+“You know of the Laws of Stone, and at least something of the… challenges that currently beset Demacia,” she said.
+
+“I do,” said Arjen. All of his levity was gone now, and his expression somber. “It is for this reason that I have come, sent by my lord. It is for this reason envoys are coming from all of your nation’s allies.”
+
+“But knowing all that, why would your lord send you?”
+
+Arjen looked down at her, raising an eyebrow. “I am chief advisor to the hall of the Arbormark, so it is my place to come,” he said. He saw her surprise, and smiled wryly. “Things are different beyond your borders. If you wished to discuss matters of the forge, you would summon a smith, yes? At a time like this, who better, then, to send than a mage?”
+
+Cithria opened her mouth to say something, then closed it.
+
+Let’s just get him to the capital safely, she told herself.
+
+The sooner they completed this mission, the better.
+
+
+
+
+Dusk was approaching as they made their way into the white-walled town of Meltridge. The guards at the gate saluted, and townspeople stood respectfully aside as the band marched down the main thoroughfare.
+
+“We turn northwest at the next junction,” said Cadstone. The snow was easing, and he lowered his hood, pointing. “The docks lie at the foot of that hill.”
+
+“You’ve been here before, then, lord seeker?” said Cithria, after Gunthar ordered the soldiers to follow the mageseeker’s directions. The mageseeker nodded.
+
+“A young girl lived here,” he said. “Powerful mage.”
+
+“You… captured her?” said Cithria, wide-eyed.
+
+“She gave herself in,” chimed in Arno. “She was benign. Registered. Normally, one such as her wouldn’t be taken in, but ever since—”
+
+“Arno!” snapped Cadstone.
+
+The younger mageseeker fell quiet, looking chastened.
+
+“Let us move,” said Cadstone. “It would be best for us not to linger.”
+
+
+
+
+At this time of early evening, the narrow road down to the docks was busy.
+
+Boatmen finishing work for the day were climbing the hill, making their way home or to one of the numerous taverns that lined the way. Children raced to and fro, chasing each other through the snow, a pair of excited hounds keeping pace. Shopkeepers stood in the doorways of their stores, and peddlers on the street shouted the prices of their wares.
+
+The soldiers were not even a third of the way down the hill before Cithria felt the mood of the street change.
+
+At first it was just a few dark looks and a few muttered words by passers-by. Clusters of townsfolk gathered in doors and alleys, talking in low voices and pointing. A fisherman spat on the ground, his eyes burning with anger.
+
+“Move along, citizen,” growled Gunthar. The man did so, somewhat reluctantly.
+
+Cithria was shocked. She did not expect such outright hostility from Demacians, despite all that had been happening in the capital.
+
+“Tighten ranks,” Gunthar said, and the soldiers responded instantly, keeping the mage and the mageseekers protected at the heart of the column.
+
+A rock struck one of the soldiers in the side of their helmet. Another, thrown from a different direction, glanced from Cadstone’s forehead, drawing blood.
+
+Cithria cursed under her breath at the narrowness of the street. There was little room to maneuver, and they were already too far down the hill to turn back. They had to continue on down to the docks.
+
+“Shields up!” barked Gunthar, the shield-sergeant clearly coming to the same conclusion. “Forward, double-time!”
+
+The soldiers instantly picked up their pace, surging forward along the street.
+
+“By order of the crown, clear the way! Move!” Gunthar shouted. Most of the townsfolk did so, scrambling out of the soldiers’ path, but up ahead, Cithria saw something that made her blood run cold.
+
+A pair of wagons were rolled from alleys ahead, blocking their way. Angry townsfolk crowded before them. Cithria glanced left and right. The white stone walls of shop fronts pressed in on either side, like the sides of a chasm. She realized the doors were all closed and barred, the windows shuttered.
+
+“This is a trap!” she hissed.
+
+“Aye,” said Gunthar. He cursed under his breath.
+
+“Halt! About-face!” the shield-sergeant shouted. The soldiers responded instantly, turning in place. All had their shields raised, though none had drawn weapons.
+
+The mageseekers stood close to the envoy, one to either side. The three of them were kept protected at the center of the soldiers’ formation.
+
+“It’s no good!” shouted Cithria. “This way is blocked, too.”
+
+Now facing the way they’d come, they could see the townsfolk had hurriedly rolled out another wagon, blocking their retreat.
+
+“Give him to us, and no one needs get hurt!” shouted a burly man from atop the wagon. He looked like the local blacksmith, wearing a thick leather apron and holding a hammer in hand.
+
+“Clear the street!” Gunthar ordered.
+
+The blacksmith, who appeared to be the spokesperson for the angry crowd, appeared unmoved.
+
+“Not gonna happen, lad,” he said, gently tapping his hammer into his open hand as an unspoken threat.
+
+While some people ran to get clear of the tense standoff, more townsfolk joined those gathered at either end of the street. Many of them carried farming tools, woodcutter’s axes, and other makeshift weapons, but more than a few had swords scabbarded at their waists. While they were clearly outclassed by the soldiers they faced, they would not be intimidated.
+
+“I say again, clear the way,” said Gunthar.
+
+In response, a stone struck Cithria’s shield. The soldier alongside her—Bakker—made to draw his sword, the blade hissing as he began to slide it from its scabbard.
+
+“No blades!” Cithria cried, putting her hand on the hilt of the sword. “These are Demacians, those we are sworn to protect!”
+
+Bakker, older and more senior than Cithria, scowled, and went to brush her aside, but their shield-sergeant stopped him with a sharp order.
+
+“She’s right,” Gunthar growled. “No sword will be drawn unless I order it.”
+
+The crowd became ever-more aggressive, shouting and closing in threateningly.
+
+Among the din, Cithria made out several individual voices.
+
+“You’ll pay, you swine!” shouted one woman.
+
+“Get him, get him!” roared a man well into his twilight years, though he had the bearing of an ex-soldier.
+
+“We should just give him to them,” muttered Bakker.
+
+Cithria glared at him. “Envoy Arjen is under our sworn protection!” she snapped. “Where is your honor?”
+
+“He’s just a mage,” said another soldier, though Cithria couldn’t see who had spoken.
+
+A heavy earthenware jar struck the soldiers’ line, shattering on a shield in an explosion of shards. A heavy chunk of masonry hit another soldier in the pauldron, dropped from above, and driving him to his knees. His comrades helped him quickly back to his feet, and Cithria looked up to see people appearing on the rooftops around them.
+
+She saw a hooded man up there throw something. Instinctively, Cithria lifted her shield high to protect the envoy standing behind her. A rusted horseshoe struck its curved surface before clattering away harmlessly. Had it struck home, it could have been lethal.
+
+The mage nodded his thanks. He wasn’t smiling now.
+
+“We’ll get you out of this unscathed, on my honor,” Cithria said.
+
+The townsfolk had closed in around them, still shouting, though none of them yet seemed willing to get too close. Nevertheless, Cithria knew it was only a matter of moments before someone charged the line, and she feared what would happen once they did.
+
+“We have to get out of here!” she shouted, as more stones, bricks and loose detritus clattered off the soldiers’ armor.
+
+“If we charge through them, there will be citizen casualties,” said Shield-Sergeant Gunthar.
+
+“That might be our only option,” said Cadstone. Reluctantly, Cithria had to agree. Unless…
+
+“That door!” she called out, gesturing toward a locked and barred shopfront nearby.
+
+“Worth a try,” said Gunthar. “Half circle, on me!”
+
+The Demacians smoothly shifted their formation, forming a curving shieldwall with their backs to the shopfront.
+
+“Cithria! Bakker!” ordered Gunthar. “Break down those doors!”
+
+The pair of them stepped out of the ranks. The mageseekers and Arjen stood within the protective cordon of soldiers, and Bakker impatiently pushed by the envoy.
+
+“Out of the way, mage,” he snarled.
+
+Cithria saw Arjen take a breath to remain calm and not respond. She hurried to the doors, stepping around the mage, and nodded to Bakker.
+
+“On three,” he said. “One, two, three!”
+
+Together, they kicked the double-doors, hard.
+
+“Again!”
+
+Three more times they struck, putting their full weight into the kicks, before there was a sharp, splintering crack, and the doors slammed inwards.
+
+“Go!” shouted Gunthar. “Take the envoy and the seekers, and find a way out! We will hold them here!”
+
+Seeing the object of their ire about to escape, the mob of townsfolk surged forward, charging into the shieldwall.
+
+“Come with me!” Cithria ordered, entering the darkened shop, shield raised before her. “There’s got to be a back door.”
+
+The shop, it seemed, belonged to a candle-maker. Hundreds of wax candles lined the shelves, and an array of floral scents assailed Cithria.
+
+“Here!” shouted Bakker, disappearing towards the rear of the shop.
+
+“Stay close,” said Cithria, and the envoy from the Arbormark, flanked by the pair of mageseekers, dropped in behind her as she followed Bakker deeper into the shop.
+
+The door he found led to a storeroom, filled with barrels, stacks of crates, and sacks. It was so dark that Cithria could barely see Bakker’s shape a few feet in front of her.
+
+“If only we had a candle, eh?” remarked Arjen mildly, making Cithria snort, then cover her mouth to stop herself. It was hardly a time for levity.
+
+Then there was a sound of cracking timber, and light suddenly entered the storeroom as Bakker kicked the back door open. The alley beyond was clear.
+
+Bakker ushered Cithria and the others forward.
+
+“Move!” he said. “I’ll take the rearguard!”
+
+Cithria nodded, and plowed forward, leading Arjen and the mageseekers. She’d gone no more than ten paces when someone stepped out of the shadows of a side-alley, blocking her path.
+
+It was an auburn-haired woman, and she cradled a heavy crossbow in her arms. Even as Cithria slid to a standstill, one hand raised in warning to those behind, the woman leveled the weapon in their direction.
+
+Time seemed to slow.
+
+Snow was falling again, the heavy flakes drifting soundlessly down. The clamor of the crowd and the shouts of her fellow soldiers were faint, here in the quiet alley behind the main thoroughfare.
+
+Cithria saw that the woman’s eyes were red, as if she had been crying, and her expression was one of desperation.
+
+What had driven this town to such a state? In Cithria’s experience, the people of her homeland were lawful and stoic. Why was this town so angry?
+
+“Get out of the way,” the woman said to Cithria, eyes pleading. Her voice was cracked and choked with emotion. “Please.”
+
+“This man is an envoy from an allied nation,” Cithria said, in a calm voice, the kind she might use around a skittish horse. “I cannot allow any harm to befall him.”
+
+“What?” said the woman, her brow furrowing.
+
+“Don’t do this,” said Cithria. “This man is under the protection of Demacia.”
+
+The woman laughed then, the sound desperate and almost manic.
+
+“It’s not him I want,” she said. “It’s the seeker. That one.”
+
+Only then did Cithria realize the crossbow was pointed at Cadstone.
+
+“My daughter never did anything wrong!” the woman said, and tears ran down her cheeks. “Kyra chose to step forward, to alert the mageseekers of her power. She didn’t want to get anyone into trouble, didn’t want to bring grief down upon her family, or on this town. Everyone loved her! All this trouble—you caused it all!”
+
+“You took her daughter…” Cithria breathed, looking at Cadstone.
+
+The mageseeker nodded grimly.
+
+“We had to,” he said. “The law was amended. Any citizen with known magical power, benign or otherwise, is now ordered to be brought in for judgment. Every mage in the kingdom.”
+
+“She was just a girl!” shouted the woman, jabbing her crossbow in the mageseeker’s direction. “You locked her away! With all those criminals! Or maybe she has been exiled and is out beyond the borders, alone! You condemned her!”
+
+Cithria sucked in a breath, certain a bolt was going to be loosed… but it wasn’t. Not yet, at least.
+
+“Kyra was no threat to anyone!” the woman cried. “She used to cry herself to sleep, wishing she had been born like everyone else. And you took her. You’re a monster.”
+
+“The law is the law,” said Cadstone.
+
+“Then the law is wrong,” the woman said. “She was my life, and you took her from me. Now I will take yours from you.”
+
+Her finger tightened around the trigger… but she hesitated as Cithria stepped in between her and the mageseeker.
+
+“Move, please,” said the woman, crying. “I don’t want to see anyone harmed but the one responsible for this.”
+
+“I cannot let you do this,” said Cithria. “Put the crossbow down.”
+
+“My life is over,” said the woman. “His should be too.”
+
+“If you do this, there is no coming back,” said Cithria. “What happens when your daughter returns home, but you are not here because of the choice you make today?”
+
+“No one taken by the seekers is ever seen again,” said the woman. “Kyra is never coming home.”
+
+The depth of despair in her voice was heart-wrenching, cutting Cithria to her core.
+
+“You can’t know that,” pleaded Cithria. “You owe it to her to be here if she does. She’ll need you.”
+
+The woman’s face crumpled in grief, her eyes screwing shut, tears running freely. But she didn’t lower the crossbow.
+
+Cithria took a step forward, reaching out to her.
+
+“I’ll help you,” Cithria said. “I promise you, I will do all I can to find out where your daughter is.”
+
+Cithria was certain she was failing to reach the woman. At this range, the sheer power of a heavy crossbow would punch straight through her breastplate.
+
+“Please,” she said. “You need to be strong. For Kyra.”
+
+The woman collapsed to her knees, all the fight going out of her. But as she dropped, finally giving in to grief and exhaustion, her finger tightened on the trigger.
+
+There was a click, followed by a sharp snap, as the crossbow fired.
+
+The bolt sliced through the air and ricocheted off one of the alley’s white stone walls. Cithria spun as the deadly bolt hissed past Cadstone and Arno, missing the nervous young mageseeker by inches, and shot directly at Bakker.
+
+Cithria saw the envoy from the Arbormark make a slight motion with his fingers, a subtle twisting of his hand. The bolt was knocked off course, as if it had struck an invisible, angled wall just in front of Bakker, and it spun harmlessly over his shoulder.
+
+The hair on the back of Cithria’s neck suddenly stood on end at what she had just seen.
+
+Bakker’s eyes were wide in shock. The bolt should have taken him in the neck, and Cithria could see that he knew it. The giant, bearskin-clad envoy gave her the slightest of winks.
+
+The young mageseeker was on the ground, breathing hard. Cadstone was pressed up against one wall of the alleyway. The woman was kneeling on the ground in the snow, her body wracked with sobs.
+
+Cithria rushed to her side, and gently removed the crossbow from her shaking hands. Then she hugged the woman, drawing her close.
+
+“Do not arrest her,” Cithria said, looking up at Cadstone. “It was an accident, nothing more.”
+
+The mageseeker hesitated, looking troubled.
+
+“No harm befell anyone,” continued Cithria. “She has suffered enough. Please.”
+
+Cadstone sighed, and rubbed his eyes.
+
+“This is not a matter for my order,” he said, finally. “Since there was no magic performed here, I leave that decision to you.”
+
+Cithria caught Bakker’s eye… but he said nothing.
+
+
+
+
+The mob of townsfolk hurled themselves against the Demacian shieldwall, kicking and surging. Bottles and rocks clashed upon shields and helmets, but still the soldiers did not draw weapons.
+
+There was a shout as Cithria emerged from the candle shop once more, leading the red-haired woman, an arm around her shoulder, and the townsfolk backed off.
+
+“Rosalyn?” called the burly blacksmith.
+
+“Kyra wouldn’t want this,” the woman called out. “She wouldn’t want anyone hurt on her account.”
+
+Her sudden appearance gave the crowd pause. A few of them fought on, shoving against the shieldwall, but others backed off, suddenly unsure of themselves.
+
+“Clear the street!” roared Gunthar. “Leave now, and there will be no repercussions!”
+
+The townspeople looked to the blacksmith.
+
+“Do what he says,” he said, finally. “It’s over.”
+
+The fury and resentment in the crowd dissipated, like an early morning fog beneath the sun’s rays. Within a few moments, they looked just like regular citizens once more, now that their faces were no longer twisted with anger and rage. Many in the crowd muttered and looked down, ashamed.
+
+At a nod from Gunthar, the soldiers parted to allow the blacksmith through their ranks, who took the woman in his arms.
+
+“The rest of you, go home!” Gunthar ordered the milling crowd. He could have had them all rounded up and clapped in irons, but Cithria was glad he chose leniency.
+
+Cithria looked around. Miraculously, other than a few scrapes and bruises, no one had been seriously harmed, either among the soldiers’ ranks, or the citizenry of Meltridge. The townsfolk drifted away, dragging the wagons with them.
+
+Her shield-sergeant, Gunthar, looked at Cithria in relief.
+
+“I don’t know what you did,” he said, shaking his head, “but whatever it was, you helped avert disaster today, soldier.”
+
+Cithria felt suddenly tired, and didn’t have the energy to respond. She nodded numbly, and sat heavily on a nearby step.
+
+Soldiers were still watching the last lingering townsfolk warily. Bakker stood nearby, his expression clouded. Cithria’s gaze drifted to the pair of mageseekers, their expressions grim, then to the woman, Rosalyn, crying in the blacksmith’s arms.
+
+All these people were Demacians, and all had good intentions at heart, yet recent actions had set them against each other.
+
+A difficult time was coming to Demacia, she thought.
+
+No, she corrected herself.
+
+It was already here.</string>
+    <string name="recruitstory">The sun was at its peak, just high enough to illuminate the exiles’ camp hidden deep in the canyon. From the shade of his lean-to, Sylas of Dregbourne waited patiently for his scout to return. At last, he saw her rounding the stone spire at the mouth of the crevasse, leading a wide-eyed young stranger into the camp.
+
+“This is Happ,” said the scout. “He wants to join.”
+
+Sylas emerged from his shelter, eyeing the youth casually. “Does he now?”
+
+“I know him from the underground. The seekers took his family. He made it out, by the hair on his hide.”
+
+Sylas nodded, quietly assessing the young man. He could sense the boy was blessed with powerful magic—some black and deadly pall. As for the rest of his character, Sylas could see nothing.
+
+“He’s a good kid,” assured the scout. “And he’s from Dregbourne.”
+
+Sylas’ brow furrowed with pleasant surprise, as if meeting kin he never knew existed.
+
+The youth stammered out an introduction. “I… I thought maybe… I could join your cause… sir.”
+
+The entire camp of outlaws laughed. The boy’s eyes darted around the grinning faces, searching for some hint of what he had done wrong.
+
+“There’s no ‘sir’ here,” chuckled Sylas. “Unless you want to address everyone of us that way.”
+
+“Yes, si— …Yes,” the youth said, nearly repeating his mistake.
+
+Abashed, the recruit seemed to wonder if he’d made the right choice in coming to the camp. Sylas placed a heavily shackled arm on the boy’s shoulder, hoping to quell his embarrassment.
+
+“Be at ease, Happ. No one will judge you here. We’re a long way from Dregbourne.”
+
+He felt the youth relax his posture.
+
+“I know your struggle. They’re always watching you, hounding you, making you feel inferior. Well there’s none of that here. Here, you belong.”
+
+Happ beamed, staring at his feet, as though he felt unworthy of his newfound joy.
+
+“Do you know why I wear these chains?” asked Sylas.
+
+The recruit shook his head, too timid to offer a guess.
+
+“They’re not just weapons. They’re a reminder. Of where we come from. Of everything we’re capable of, and of our liberation to come. Are you with me?”
+
+“Yes. Yes, I want to be liberated.”
+
+“Good,” said Sylas. “Tonight, you will break your own chains.”
+
+
+
+
+Dusk was falling, and the darkened brush on the side of the road was the perfect cover for an ambush. There, Sylas lay in wait with a dozen of his most trusted mages. Beside him, the recruit nervously picked at his fingernails.
+
+“Don’t worry,” said Sylas, with a reassuring smile. “I was nervous for my first one. After a while, it becomes as natural as breathing.”
+
+Before the recruit’s nerves could be assuaged, the thunder of hooves and wagon wheels rumbled in the distance like a coming storm. Within seconds, the carriage came barreling down the road before the lurking hijackers.
+
+An instant before the horses arrived, Sylas signaled to his comrades, and the ambush began.
+
+With a flick of his wrist, a scruffy old mage summoned a thick cord of ironvines that snapped across the road, catching the galloping horses at the knees. The racket was deafening, as the steeds fell neck-first into the dirt, the carriage careening over them.
+
+The mages sprang from their cover, subduing the dazed crew of the carriage with various weapons and spells. Sylas leapt atop the overturned coach, eager to seize the passengers of the unprotected cabin.
+
+“Let’s go, recruit,” he called to Happ, beckoning for the lad to join him.
+
+Happ scampered atop the cabin and began to help pry the door. It cracked open, revealing a very battered nobleman. Sylas’ eyes flashed with a malicious gleam.
+
+“Well… look who’s kneeling now, my lord,” said Sylas, extending his hand.
+
+The nobleman bristled. Though he was gravely injured, his hatred for Sylas remained intact.
+
+“I’ll not cower before the likes of you.”
+
+“Good,” said Sylas. “Because I wouldn’t want you to miss this.”
+
+In minutes, all of the nobleman’s guards and coachmen were lined up beside the road with their hands bound. Sylas paced the line, individually acknowledging each captive.
+
+“I ache for you all. I do,” said Sylas. “You are merely cogs in their wheel.”
+
+Sylas paused, his tone shifting harshly, as he gestured to the bound nobleman.
+
+“But you chose to serve them… and thus, serve their cause.”
+
+He turned to his band of outcasts, loudly offering a question.
+
+“Brothers and sisters—these folk work in the service of swine. What does that make them?”
+
+“Swine!” replied the outcasts.
+
+“Should we allow them to go free?”
+
+“No!” yelled the mages.
+
+“What if they have a change of heart? Promise never to bother us again?” asked Sylas, with a coy smile creeping across the corners of his mouth.
+
+“They’d be lying!” yelled the scruffy old mage from the brush.
+
+“They can’t be trusted!” said another in the gang.
+
+“Then what is to be done with them?” asked Sylas.
+
+“They must die!” shouted a young mage, his hatred beyond his years.
+
+Others yelled out in agreement, until the phrase echoed across the land: “Swine must die!”
+
+Sylas nodded, as if he were slowly being persuaded by their words.
+
+“So it must be.”
+
+Softly, Sylas touched the shoulder of his recruit. His petricite shackles began to fume with a dark smoke. He closed his eyes, savoring the captured power.
+
+The sight sent a quake of dread through the captives. Many fell to their knees and wept, pleading to be spared. Only the nobleman stood proud, defying his circumstances, as Sylas addressed his crew with somber finality.
+
+“It pains me that I cannot show you the beautiful world to come.”
+
+The words sent a chill through the recruit.
+
+“Sylas, no,” Happ protested. “These are just… people.”
+
+Ignoring the pleas, Sylas extended his arms and fingers, and unleashed the magic stored in his gauntlets. A thick black cloud billowed from his fingers and collected above the heads of the nobleman’s crew. Almost in unison, they began to claw at their throats in suffocation. Moments later, they fell to the ground dead.
+
+A grave hush fell over the mages, having dutifully observed the execution. The nobleman wept silently, tears streaming over his clenched lips. The only sound came from the recruit.
+
+“No… why?” said Happ, falling to his knees.
+
+Sylas eased the boy back to his feet, consoling him with a fatherly hand.
+
+“Happ, you wanted to help our cause. This is it! This is our liberation…”
+
+He gently guided the recruit toward the nobleman, and urged him forward.
+
+“…one dead lord at a time.”
+
+Happ looked at the nobleman through tear-filled eyes. He held out a trembling hand, preparing to take the life before him. Then, he let his arm go limp.
+
+“I… can’t.”
+
+Sylas’ tender patience began to slip away.
+
+“This man is not your friend. His fortune is built on your suffering. He would sooner see you hang than show you any kindness.”
+
+The recruit would not budge. At last, the nobleman found his voice.
+
+“You’re a monster,” he said, his voice breaking.
+
+“Yes,” replied Sylas. “That’s what your kind said when you locked me in the dark.”
+
+Sylas held forth his hand, its shackle still faintly glowing. The magic he had taken from Happ mustered one last wisp of blackness. The small, dark cloud enveloped the nobleman’s face, drawing the breath from his lungs. As the man writhed, Sylas looked back at the recruit, not in anger, but mourning.
+
+“I’m sorry, Happ. But you are not ready to be liberated. Go. Return to your chains.”
+
+Sylas watched as Happ turned to leave, his eyes averted in shame. The recruit looked down at the wrecked carriage in front of him, and the long, dirt road that wound back to the capital. Sylas could almost feel the boy thinking, dreading the misery that awaited him in his old life.
+
+Happ bent down, pried a dagger from the hand of the dead coachman, and returned to the nobleman, still struggling for breath on the ground.
+
+“I’m ready.”
+
+As the youth raised the dagger above the nobleman, Sylas’ sorrow turned to unmitigated joy. No matter how many he liberated, it always made him smile.</string>
+
+    <string name="readsc">READ EXCITING STORIES AND COMICS</string>
+    <string name="fanart">FANART</string>
+    <string name="extitle">PLAYING AS SYLAS</string>
+    <string name="extext">As Sylas, you lash out with merciless magical attacks,Beat down your enemies with repeated Chain Lash,end the oppression with a crushing Kingslayer strike.</string>
+    <string name="runes">RUNES</string>
+    <string name="builds">BUILD</string>
+    <string name="stats">STATS</string>
+    <string name="sorder">SKILL ORDER</string>
+    <string name="ab1text">Sylas lashes out with his chains, damaging and slightly slowing enemies. After a brief delay, the intersection of the chains detonates, applying an increased slow and damaging enemies again.</string>
+    <string name="ab1dmg">Magic Damage : 40/60/80/100/120 (+40% AP)  Mana : 70/80/90/100/110   Detonation Damege : 60/115/170/225/280 (+80% AP)    Slow : 15/20/25/30/35%                          Cooldown : 10/9/8/7/6</string>
+    <string name="ab2text">Sylas lunges at a target with a powerful strike, damaging them and healing himself. If the enemy is at low health, the damage is increased; if Sylas is at low health, the heal is increased.</string>
+    <string name="ab2dmg">Magic Damage : 70/105/140/175/210 (+90% AP) Heal : 30/60/90/120/150(+50% AP)Max Heal:60/120/180/240/300(+100% AP)Mana : 70/80/90/100/110 Cooldown:13/11.5/10/8.5/7</string>
+    <string name="ab3text">Sylas dashes a short distance and shields himself.For a short time, he can recast the ability to whip out his chains, stunning, damaging, and pulling himself to the first enemy hit.</string>
+    <string name="ab3dmg">Magic Damage : 80/130/180/230/280 (+100% AP)Mana:65Cooldown:14/13/12/11/10Casttime:0.25Range:800</string>
+    <string name="ab4text">Sylas hijacks an enemy’s ultimate for his own use.Enemies can still use their ultimates if Sylas takes them. Sylas can take an enemy’s ultimate whenever Hijack is off cooldown, but can’t hijack the same enemy for a while after.</string>
+    <string name="ab4dmg">Mana:75Cooldown:100/70/40Range:950OntargetCooldown:200%TC</string>
+</resources>

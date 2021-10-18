@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dark"
+        tools:context=".MainActivity">
+
+        <ImageView
+            android:id="@+id/maincover"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/cover1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/underquote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:alpha="0.8"
+            android:text="@string/sylasname"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/quote" />
+
+        <TextView
+            android:id="@+id/quote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/bio"
+            android:textColor="#FFD999"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/maincover" />
+
+        <ImageView
+            android:id="@+id/ab1"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ability4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/ab2"
+            app:layout_constraintTop_toBottomOf="@+id/underquote" />
+
+        <TextView
+            android:id="@+id/ab1t"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:alpha="0.87"
+            android:background="@drawable/abilityname2"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="@string/ab1"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/ab1"
+            app:layout_constraintStart_toStartOf="@+id/ab1"
+            app:layout_constraintTop_toBottomOf="@+id/ab1" />
+
+        <ImageView
+            android:id="@+id/ab2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ability3"
+            app:layout_constraintEnd_toStartOf="@+id/ab1"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/ab3"
+            app:layout_constraintTop_toBottomOf="@+id/underquote" />
+
+        <TextView
+            android:id="@+id/ab2t"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/abilityname2"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="@string/ab2"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/ab2"
+            app:layout_constraintStart_toStartOf="@+id/ab2"
+            app:layout_constraintTop_toBottomOf="@+id/ab2" />
+
+        <ImageView
+            android:id="@+id/ab3"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ability2"
+            app:layout_constraintEnd_toStartOf="@+id/ab2"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/ab4"
+            app:layout_constraintTop_toBottomOf="@+id/underquote" />
+
+        <TextView
+            android:id="@+id/ab3t"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:alpha="0.87"
+            android:background="@drawable/abilityname2"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="@string/ab3"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/ab3"
+            app:layout_constraintStart_toStartOf="@+id/ab3"
+            app:layout_constraintTop_toBottomOf="@+id/ab3" />
+
+        <ImageView
+            android:id="@+id/ab4"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ability1"
+            app:layout_constraintEnd_toStartOf="@+id/ab3"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/underquote" />
+
+        <TextView
+            android:id="@+id/ab4t"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:alpha="0.87"
+            android:background="@drawable/abilityname1"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:text="@string/ab4"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/ab4"
+            app:layout_constraintStart_toStartOf="@+id/ab4"
+            app:layout_constraintTop_toBottomOf="@+id/ab4" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/buildsnruines"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:alpha="0.9"
+            android:background="@drawable/btnbackground"
+            android:fontFamily="sans-serif-medium"
+            android:text="@string/buildsnruines"
+            android:textColor="@color/white"
+            android:textSize="26sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ab2t" />
+
+        <TextView
+            android:id="@+id/extitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:alpha="0.85"
+            android:text="@string/extitle"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            app:layout_constraintTop_toBottomOf="@id/profilep"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/extext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:alpha="0.5"
+            android:padding="5dp"
+            android:text="@string/extext"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/extitle"/>
+
+        <ImageView
+            android:id="@+id/expic"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_marginTop="8dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/explainpic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/extext" />
+
+        <ImageView
+            android:id="@+id/iv1"
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:layout_marginTop="30dp"
+            android:alpha="0.4"
+            android:scaleType="centerCrop"
+            android:src="@drawable/theshacklesofbelief"
+            app:layout_constraintBottom_toTopOf="@+id/iv2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/expic" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+           android:id="@+id/damacia"
+           android:layout_width="110dp"
+           android:layout_marginTop="250dp"
+           android:layout_height="110dp"
+           android:src="@drawable/damacia"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/extitle"/>
+
+        <ImageView
+            android:id="@+id/iv2"
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:alpha="0.4"
+            android:scaleType="centerCrop"
+            android:src="@drawable/recruit"
+            app:layout_constraintBottom_toTopOf="@+id/iv3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/iv1" />
+
+        <ImageView
+            android:id="@+id/iv3"
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:alpha="0.4"
+            android:scaleType="centerCrop"
+            android:src="@drawable/turmoil"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/iv2" />
+
+        <TextView
+            android:id="@+id/storiestitle"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="sans-serif"
+            android:text="@string/readsc"
+            android:textAlignment="center"
+            android:textColor="#EFBB64"
+            android:textSize="40sp"
+            android:textStyle="italic"
+            app:layout_constraintBottom_toBottomOf="@+id/iv3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/iv1" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profilep"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_marginTop="120dp"
+            android:src="@drawable/fanart10"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buildsnruines" />
+
+        <TextView
+            android:id="@+id/profilet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="180dp"
+            android:alpha="0.6"
+            android:padding="27dp"
+            android:text="@string/biography"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buildsnruines" />
+
+        <HorizontalScrollView
+            android:id="@+id/hsv"
+            android:layout_width="match_parent"
+            android:layout_height="420dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/fanart">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="420dp"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/fanart1" />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="300dp"
+                    android:layout_marginStart="40dp"
+                    android:layout_height="match_parent"
+                    android:alpha="0.6"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/fanart3" />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="300dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="40dp"
+                    android:alpha="0.6"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/fanart4" />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="300dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="40dp"
+                    android:alpha="0.6"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/fanart5" />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="300dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="40dp"
+                    android:alpha="0.6"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/fanart6" />
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+        <TextView
+            android:id="@+id/fanart"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:alpha="0.9"
+            android:fontFamily="sans-serif-medium"
+            android:text="@string/fanart"
+            android:textAlignment="center"
+            android:textColor="#EFBB64"
+            android:textSize="25sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/iv3" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

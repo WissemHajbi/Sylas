@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dark"
+        tools:context=".MainActivity2">
+
+    <HorizontalScrollView
+        android:id="@+id/scv"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/faker"
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/faker" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/armoon"
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/armoon" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/nb3"
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/nb3" />
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/skillorder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.9"
+        android:text="@string/sorder"
+        android:textColor="#EFBB64"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scv" />
+
+    <ImageView
+        android:id="@+id/skill3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="30dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ability3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/skill1"
+        app:layout_constraintTop_toBottomOf="@+id/skillorder" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:alpha="0.5"
+        android:text=">"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toStartOf="@+id/skill1"
+        app:layout_constraintStart_toEndOf="@+id/skill2"
+        app:layout_constraintTop_toBottomOf="@+id/skillorder" />
+
+    <ImageView
+        android:id="@+id/skill1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ability2"
+        app:layout_constraintEnd_toStartOf="@+id/skill3"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/skill2"
+        app:layout_constraintTop_toBottomOf="@+id/skillorder" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:alpha="0.5"
+        android:text=">"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toStartOf="@+id/skill3"
+        app:layout_constraintStart_toEndOf="@+id/skill1"
+        app:layout_constraintTop_toBottomOf="@+id/skillorder" />
+
+    <ImageView
+        android:id="@+id/skill2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ability1"
+        app:layout_constraintEnd_toStartOf="@+id/skill1"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/skillorder" />
+
+    <TextView
+        android:id="@+id/builds"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/builds"
+        android:textColor="#EFBB64"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toStartOf="@+id/stats"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/skill1" />
+
+    <TextView
+        android:id="@+id/stats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/stats"
+        android:textColor="#EFBB64"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/builds"
+        app:layout_constraintTop_toBottomOf="@+id/skill1" />
+
+
+    <ImageView
+        android:id="@+id/item1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/item7"
+        app:layout_constraintEnd_toStartOf="@+id/item2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/builds" />
+
+    <ImageView
+        android:id="@+id/item2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/item8"
+        app:layout_constraintEnd_toStartOf="@+id/item3"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/item1"
+        app:layout_constraintTop_toBottomOf="@+id/builds" />
+
+    <ImageView
+        android:id="@+id/item3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="185dp"
+        android:src="@drawable/item5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/item2"
+        app:layout_constraintTop_toBottomOf="@+id/builds" />
+
+    <ImageView
+        android:id="@+id/item4"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/item9"
+        app:layout_constraintEnd_toStartOf="@+id/item5"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/item1" />
+
+    <ImageView
+        android:id="@+id/item5"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/item10"
+        app:layout_constraintEnd_toStartOf="@+id/item6"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/item4"
+        app:layout_constraintTop_toBottomOf="@+id/item2" />
+
+    <ImageView
+        android:id="@+id/item6"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="185dp"
+        android:src="@drawable/item6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/item5"
+        app:layout_constraintTop_toBottomOf="@+id/item3" />
+
+    <ImageView
+        android:id="@+id/statspic"
+        android:layout_width="180dp"
+        android:layout_height="110dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/stats1"
+        app:layout_constraintBottom_toBottomOf="@id/item6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/item3"
+        app:layout_constraintTop_toBottomOf="@id/stats" />
+
+    <TextView
+        android:id="@+id/runes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/runes"
+        android:textColor="#EFBB64"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/item6" />
+
+    <ImageView
+        android:id="@+id/runespic"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/runes2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/runes" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
